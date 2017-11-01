@@ -1,7 +1,9 @@
 ### My Takeaway:
 - Learn how to make a basic system:
   - Learn how to make requests to server with ajax
+    - XMLHttpRequest
   - Learn how to set up a basic express server and respond
+  - Learn file system read txt, csv, etc..
 - I have a sketch / bad implementation for how to create combinations with while loops but I need to...
 - Learn recursion combinations.
 - Thought of using Binary Search with array of combinations through dictonary.
