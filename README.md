@@ -1,4 +1,4 @@
-###My Takeaway:
+### My Takeaway:
 - Learn how to make a basic system:
   - Learn how to make requests to server with ajax
   - Learn how to set up a basic express server and respond
@@ -9,7 +9,7 @@
 
 
 
-###Prompt:
+### Prompt:
 Make a Scrabble word finder app with both a server and client.
 
 On the client, the UI simply is a text input for your up-to-7 letters in your Scrabble rack, and a button to send the letters to the server.
@@ -20,14 +20,14 @@ Display the list of found words on the client side.
 
 
 
-###Google Queries:
+### Google Queries:
 - input html
 - express fs module
 - ajax
 
 
 
-###Documentations:
+### Documentations:
 - expressjs.com
  - installing
  - hello world
