@@ -8,3 +8,4 @@ function loadDoc() {
   xhttp.open("GET", "dictionary.txt", true);
   xhttp.send();
 }
+
